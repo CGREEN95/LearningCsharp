@@ -1,0 +1,7 @@
+Z:\C#\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.exe.config
+Z:\C#\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.exe
+Z:\C#\SimpleCSharpApp\SimpleCSharpApp\bin\Debug\SimpleCSharpApp.pdb
+Z:\C#\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.csprojAssemblyReference.cache
+Z:\C#\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.csproj.CoreCompileInputs.cache
+Z:\C#\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.exe
+Z:\C#\SimpleCSharpApp\SimpleCSharpApp\obj\Debug\SimpleCSharpApp.pdb

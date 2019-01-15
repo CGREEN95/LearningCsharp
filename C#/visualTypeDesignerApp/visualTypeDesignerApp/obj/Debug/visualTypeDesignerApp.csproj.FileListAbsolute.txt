@@ -1,0 +1,7 @@
+Z:\C#\visualTypeDesignerApp\visualTypeDesignerApp\bin\Debug\visualTypeDesignerApp.exe.config
+Z:\C#\visualTypeDesignerApp\visualTypeDesignerApp\bin\Debug\visualTypeDesignerApp.exe
+Z:\C#\visualTypeDesignerApp\visualTypeDesignerApp\bin\Debug\visualTypeDesignerApp.pdb
+Z:\C#\visualTypeDesignerApp\visualTypeDesignerApp\obj\Debug\visualTypeDesignerApp.csprojAssemblyReference.cache
+Z:\C#\visualTypeDesignerApp\visualTypeDesignerApp\obj\Debug\visualTypeDesignerApp.csproj.CoreCompileInputs.cache
+Z:\C#\visualTypeDesignerApp\visualTypeDesignerApp\obj\Debug\visualTypeDesignerApp.exe
+Z:\C#\visualTypeDesignerApp\visualTypeDesignerApp\obj\Debug\visualTypeDesignerApp.pdb

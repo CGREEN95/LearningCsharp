@@ -1,0 +1,7 @@
+Z:\C#\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe.config
+Z:\C#\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe
+Z:\C#\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.pdb
+Z:\C#\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.csprojAssemblyReference.cache
+Z:\C#\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.csproj.CoreCompileInputs.cache
+Z:\C#\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.exe
+Z:\C#\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.pdb

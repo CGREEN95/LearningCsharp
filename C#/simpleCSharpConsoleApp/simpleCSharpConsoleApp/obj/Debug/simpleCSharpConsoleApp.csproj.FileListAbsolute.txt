@@ -1,0 +1,7 @@
+Z:\C#\simpleCSharpConsoleApp\simpleCSharpConsoleApp\obj\Debug\simpleCSharpConsoleApp.csprojAssemblyReference.cache
+Z:\C#\simpleCSharpConsoleApp\simpleCSharpConsoleApp\obj\Debug\simpleCSharpConsoleApp.csproj.CoreCompileInputs.cache
+Z:\C#\simpleCSharpConsoleApp\simpleCSharpConsoleApp\bin\Debug\simpleCSharpConsoleApp.exe.config
+Z:\C#\simpleCSharpConsoleApp\simpleCSharpConsoleApp\bin\Debug\simpleCSharpConsoleApp.exe
+Z:\C#\simpleCSharpConsoleApp\simpleCSharpConsoleApp\bin\Debug\simpleCSharpConsoleApp.pdb
+Z:\C#\simpleCSharpConsoleApp\simpleCSharpConsoleApp\obj\Debug\simpleCSharpConsoleApp.exe
+Z:\C#\simpleCSharpConsoleApp\simpleCSharpConsoleApp\obj\Debug\simpleCSharpConsoleApp.pdb
